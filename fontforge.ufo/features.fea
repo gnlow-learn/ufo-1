@@ -1,6 +1,6 @@
 
 
-@GDEF_Simple = [\A \B \Q \R \C \S ];
+@GDEF_Simple = [\A \B \Q \R \C \S \D \E \U \F \V ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
@@ -11,7 +11,7 @@ table GDEF {
 
 lookup Test {
   markClass [B C] <anchor 0 0> @HAIR;
-  pos base [A] <anchor 0 0> mark @HAIR;
+  pos base [A D E F] <anchor 0 0> mark @HAIR;
 } Test;
 
 feature asdf {
