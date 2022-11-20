@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1668919149
-ModificationTime: 1668926890
+ModificationTime: 1668930700
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,9 +52,9 @@ BeginChars: 1114112 4
 StartChar: A
 Encoding: 65 65 0
 GlifName: A_
-Width: 1000
+Width: 547
 InSpiro: 1
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -171,7 +171,8 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 1
-Width: 1000
+GlifName: B_
+Width: 0
 InSpiro: 1
 Flags: HW
 LayerCount: 2
@@ -242,6 +243,7 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 2
+GlifName: Q_
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -272,10 +274,12 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 524323
 EndChar
 
 StartChar: R
 Encoding: 82 82 3
+GlifName: R_
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -297,6 +301,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 524323
 EndChar
 EndChars
 EndSplineFont
