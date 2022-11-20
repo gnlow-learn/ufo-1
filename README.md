@@ -35,3 +35,12 @@ feature asdf {
 ```sh
 py build.py yourfontname
 ```
+
+## Memo
+### Expand Stroke
+- Nib Type: Circular
+- Major Axis: 60
+- Minor Axis: 20
+- Nib Angle: 30
+- Line Cap: Nib
+- Line Join: Arcs
