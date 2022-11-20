@@ -14,6 +14,6 @@ lookup Test {
   pos base [A] <anchor 0 0> mark @HAIR;
 } Test;
 
-feature liga {
+feature asdf {
   lookup Test;
-} liga;
+} asdf;
