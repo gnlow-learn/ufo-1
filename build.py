@@ -1,3 +1,5 @@
+import sys
+
 from defcon import Font
 from ufo2ft import compileOTF
 

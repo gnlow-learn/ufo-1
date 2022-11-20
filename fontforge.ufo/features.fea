@@ -1,9 +1,19 @@
 
 
-@GDEF_Simple = [\A ];
+@GDEF_Simple = [\A \B \Q \R ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
 
 } GDEF;
 
+# @Hair = [B]
+
+lookup Test {
+  markClass [B] <anchor 0 0> @HAIR;
+  pos base [A] <anchor 0 0> mark @HAIR;
+} Test;
+
+feature liga {
+  lookup Test;
+} liga;

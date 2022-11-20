@@ -13,7 +13,7 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2022</string>
+    <string>Copyright (c) 2022, KH</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>ascender</key>
@@ -27,7 +27,7 @@
     <key>openTypeHeadCreated</key>
     <string>2022/11/20 04:39:09</string>
     <key>openTypeHheaAscender</key>
-    <integer>381</integer>
+    <integer>542</integer>
     <key>openTypeHheaDescender</key>
     <integer>-1</integer>
     <key>openTypeHheaLineGap</key>
